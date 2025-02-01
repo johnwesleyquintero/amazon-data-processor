@@ -1,3 +1,4 @@
+Updated `README.md
 markdown
 # Amazon Data Processor
 
@@ -282,10 +283,4 @@ templates/: HTML templates for rendering pages.
 
 static/: Static files like CSS and JavaScript.
 
-uploads/: Directory for uploaded files.
-
-
-Important Reminder. We have a project setup scripts we might have some duplicates
-make sure to address it first. Then proceed to the next task. 
-
-Thank you.
+uploads/
